@@ -99,3 +99,5 @@ def seo_analysis(url):
 
 # Call the function to see the results
 seo_analysis(url)
+
+# Credit - Pythonology
